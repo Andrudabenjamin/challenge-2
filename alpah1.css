@@ -1,0 +1,48 @@
+body{
+    background-color: burlywood;
+
+}
+.box1{background:yellow;color: brown; }
+.box2{background:green;color: blue;}
+.box3{background:midnightblue;color: chartreuse;}
+.box4{background:magenta;color: crimson;}
+.box5{background:cyan;color:red;}
+.box6{background: blueviolet;color: yellow}
+.box7{background: violet;color: tomato;}
+.box8{background: indigo;color: thistle;}
+.box9{background:coral;color: yellowgreen;}
+.box10{background:crimson;color:indigo;}
+.box11{background: lawngreen;color: teal;}
+.box12{background: blueviolet;color: black;}
+.box13{background: brown;color: chocolate;}
+.box14{background: chocolate;color: green;}
+.box15{background: orange;color: grey;}
+.box16{background: crimson;color: hotpink;}
+.box17{background: darkblue;color: lightcoral;}
+.box18{background: blueviolet;color: lime;}
+.box19{background: olive;color: maroon;}
+.box20{background: darkred;color: navy;}
+.box21{background: saddlebrown;color: orange;}
+.box22{background: deeppink;color: orangered;}
+.box23{background: salmon;color:orchid;}
+.box24{background: skyblue;color: purple;}
+.box25{background: tomato;color: rebeccapurple;}
+.box26{background:maroon;color: firebrick;}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    
+}
+
+.container div {
+    padding: 30px;
+    margin: 6px;
+    font-size: 100px;
+
+
+
+}
